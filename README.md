@@ -7,7 +7,7 @@
 
 - 💻 **PHP** – Experiência em desenvolvimento web back-end
 - 🐍 **Python** – Programação 
-- 🌱 **Java** – Atualmente em aprendizado (foco em back-end)
+- 🌱 **Java** – Atualmente em aprendizado 
 - 🌐 **HTML & CSS** – Estilização e estruturação de páginas web
 
 ## 🚀 O que estou estudando atualmente:
