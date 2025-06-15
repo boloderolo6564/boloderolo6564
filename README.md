@@ -5,8 +5,8 @@
 
 ## 🛠️ Tecnologias que eu conheço:
 
-- 💻 **PHP** – Experiência em desenvolvimento web e back-end
-- 🐍 **Python** – Programação e automação de scripts
+- 💻 **PHP** – Experiência em desenvolvimento web back-end
+- 🐍 **Python** – Programação 
 - 🌱 **Java** – Atualmente em aprendizado (foco em back-end)
 - 🌐 **HTML & CSS** – Estilização e estruturação de páginas web
 
