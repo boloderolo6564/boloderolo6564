@@ -23,6 +23,6 @@
 
 ## 📈 Minhas estatísticas no GitHub:
 
-![Thyago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyagovictor&show_icons=true&theme=radical)
+![Thyago's GitHub stats](https://github-readme-stats.vercel.app/api?username=boloderolo6564&show_icons=true&theme=radical)
 
 ---
