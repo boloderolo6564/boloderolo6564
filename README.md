@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Thyago Victor
 
-<!--
-**boloderolo6564/boloderolo6564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico em Análise e Desenvolvimento de Sistemas  
+👨‍💻 Apaixonado por desenvolvimento web e back-end  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que eu conheço:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **PHP** – Experiência em desenvolvimento web e back-end
+- 🐍 **Python** – Programação e automação de scripts
+- 🌱 **Java** – Atualmente em aprendizado (foco em back-end)
+- 🌐 **HTML & CSS** – Estilização e estruturação de páginas web
+
+## 🚀 O que estou estudando atualmente:
+
+- Java (POO e Spring Boot)
+- APIs REST
+- Banco de Dados (MySQL, PostgreSQL)
+
+## 📫 Como me contatar:
+
+- Email: thyagovictor678@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/thyago-victor-6765832b8/]
+
+## 📈 Minhas estatísticas no GitHub:
+
+![Thyago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thyagovictor&show_icons=true&theme=radical)
+
+---
