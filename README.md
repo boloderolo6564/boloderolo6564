@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Thyago Victor
+hum# 👋 Olá! Eu sou o Thyago Victor
 
 🎓 Técnico em Análise e Desenvolvimento de Sistemas  
 👨‍💻 Apaixonado por desenvolvimento web e back-end  
@@ -12,8 +12,7 @@
 
 ## 🚀 O que estou estudando atualmente:
 
-- Java (POO e Spring Boot)
-- APIs REST
+- Python (Django)
 - Banco de Dados (MySQL, PostgreSQL)
 
 ## 📫 Como me contatar:
