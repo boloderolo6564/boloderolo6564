@@ -12,7 +12,7 @@ hum# 👋 Olá! Eu sou o Thyago Victor
 
 ## 🚀 O que estou estudando atualmente:
 
-- Python (Django)
+- Java - POO
 - Banco de Dados (MySQL, PostgreSQL)
 
 ## 📫 Como me contatar:
